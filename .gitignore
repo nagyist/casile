@@ -10,10 +10,10 @@ completions/*
 rules/casile.mk
 rules/en-reversed.mk
 rules/tr-reversed.mk
-!lib/*.in
 lib/*
-!scripts/*.in
+!lib/*.in
 scripts/*
+!scripts/*.in
 *.asc
 luarc.json
 eidtorconfig
